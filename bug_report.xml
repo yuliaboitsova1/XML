@@ -1,0 +1,10 @@
+<CAT>
+<ID>AM</ID>
+ <description>open website https://response-form.herokuapp.com</description><description>fill the name field</description><description>fill date field</description><description>set 10 stars</description><description>Write a review text</description><description>Click on the send feedback button</description>
+ <version>IOS 16.1</version>
+ <severyti>critical</severyti>
+ <priority>high</priority>
+ <status>new</status>
+ <AR>date field error</AR>
+ <ER>the date entered by the user is displayed</ER>
+  </CAT>
